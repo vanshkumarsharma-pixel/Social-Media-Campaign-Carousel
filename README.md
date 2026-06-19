@@ -1,12 +1,14 @@
 # Campaign Theme
 
 Objective:-Social Media Campaign (Carousel + Motion Posts)
+
 Tools Used:
 1 Canva
 2 Adode illuatrator
 Brand: Eco-Friendly Water Bottle Startup (Example)
 Goal: Increase brand awareness, engagement, and sales.
 Platform: Instagram, Facebook, LinkedIn
+
 Day 1 – Brand Introduction
 Static Carousel (5 Slides)
 1 W2elcome to the Brand
