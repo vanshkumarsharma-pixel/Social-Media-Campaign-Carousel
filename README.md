@@ -1,4 +1,4 @@
-#Campaign Theme
+Campaign Theme
 Objective:-Social Media Campaign (Carousel + Motion Posts)
 Tools Used:
 1 Canva
